@@ -90,11 +90,49 @@ Market competitiveness-a product that performs better than its competitors attra
 
 How defining the project scope contribute to successful project planning 
 Establishing boundaries and deliverables-project scope defines what it includes and what it excludes in the project. this ensures that teams stay focused on the work that contributes to the project success
-Facilitates resource planning-
+Facilitates resource planning-clear scope helps identify required resources making it easier to allocate the necessary resources at the right times.
+Helps with risk mannagement-clear scope helps to anticipate potential risks that could impact the project thus the risk can be mitigated earky.
+Define milestones and deadlines-project managers can set realistic milestones and deadlines for various stages of the project which helps maintain focus and ensure that the progress can be tracked effectively.
+Prevent scope creep-slear scope prevents the risk that unplanned work will be introduced throughout the project thus avoid budget overruns.
+Clarrifies objectives and expectations-this helps prevent misunderstanding or scope creep which might lead to delays and budget overruns
+
+Work breakdown structure (WBS)- is a hierarchical decomposition of the project scope into more manageable components
+Importance of WBS
+Clear accountability-each work package is assigned to a specific person or team clearly definig accountability for each part of the project. It ensures that everyone knows their responsibility.
+Improves resource and time management-WBS helps identify what resources are required for each work package and how much time each task is expected to take.
+Facilitate risk management-it allows project managers to identify potential risks for each task. This allows for early risk mitigation.
+Helps with communication-WBS acts as a referrence document for all stakeholders, helping them understand the scope and progress of the project.
+Establishes milestones and deadlines-WBS defines work packages that need to be completedto achieve milestones.
+Organizes and structures the project-it breaks down complex projects into manageable chants making it easy to plan, track and manage the work.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of detailed project schedule
+Resource management-you can plan and allocate resources effectively
+Time management and deadlines-it sets specific time frames for each task and milestones allowing the team to monitor progress and identify any delays early.
+Risk mitigation-It highlights potential risk early which allows for better preparation and mitigation strategies.
+Improved communication-It communicates expectations toteam members and stakeholders.
+Performance monitoring-It enables ongoing tracking of the projects progress.
+Accountability-When tasks are assigned to specific team members with clear deadlines, it fosters a sense of accountability.
+
+How Gantt charts assist in project scheduling
+Task dependencies-they allow you to show the relationship between tasks such as which task need to be completed before others which helps identify the critical path.
+Milestones and progress tracking-milestones can be easily added to a gantt chart to make significant achievements or deliverables.
+Resource allocation-It can show whether resources are over-allocated or under-allocated.
+Easy adjistment of schedules-charts make it simple to adjust project timelines. If a task is delayed, you can easily update the chart to shift dependent tasks accordingly.
+Improved communication-the charts help communicate the status of the project to team and stakeholders.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Prioritize user needs-the software will meet user expectations and needs of the target audience. leading to higher user satisfaction
+Reduces risk of misalignment-misscommunications are minimized leading to more streamlined development process and final product that meet user requirements.
+Facilitate resource allocation-when the problem is clearly understood, resources can be allocated efficiently.
+Stremlined decision making-it acts as a reference point for decision making during the development process.
+Improves testing-during testing, the team can evaluate whether the software trully solves the problem as expected.
+Enables clear communication with stakeholders-it serves as a common language that helps everyone understand the purpose of the software.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
